@@ -23,18 +23,17 @@ Soy **Desarrollador Full Stack Junior**, enfocado en construir aplicaciones limp
 
 Actualmente estoy preparándome para las certificaciones **AWS Certified Cloud Practitioner** y **AWS Certified AI Practitioner**, como parte de mi camino en fundamentos de la nube.
 
-<div align="center">⸻</div>
-
 <div align="center">
 
 ### Certificaciones
 
 </div>
 
-| Dominio | Estado | Detalle |
-|---|---|---|
-| Fundamentos de AWS Cloud | 🟡 En Progreso | Preparando el examen **AWS Certified Cloud Practitioner** |
-| Fundamentos de AWS AI | 🟡 En Progreso | Preparando el examen **AWS Certified AI Practitioner** |
+| Dominio | Estado | Detalle | Enlace |
+|---|---|---|---|
+| Fundamentos de AWS Cloud | En Progreso | Próximamente **AWS Certified Cloud Practitioner** | |
+| Fundamentos de AWS AI | En Progreso | Preparando el examen **AWS Certified AI Practitioner** | |
+| Frontend | Completada | Bootcamp Desarrollo Aplicaciones Front-End Trainee **Talento Digital** | [Ver](https://www.acreditta.com/credential/84a92f1c-ec74-446d-9ba3-75c83d14f9d2) |
 
 <div align="center">
 
